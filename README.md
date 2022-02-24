@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F643ab9b2-4062-4367-99f6-59c0f7507e22%2FGroup_1041.png?table=block&id=23fcc36a-07b6-46a5-84d6-2f4a5569cd6e&spaceId=2fa227ac-dee8-4655-ad64-fe3c359def5a&width=250&userId=b57d8bef-0356-4537-8ae8-7251a098e5b3&cache=v2" width="100" height="100" />
-  
+
   <hr height="0.5px" />
-  
+
   <br/>
-  
+
   <h1> Cosmos Hub (Gaia) </h1>
   <p> The Cosmos Hub is the first of an exploding number of interconnected blockchains that comprise the Cosmos Network. </p>
-  
+
   <a href="https://twitter.com/cosmoshub"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Tweet" height="20"/></a>
   <br/>
 </div>
@@ -21,7 +21,7 @@
 <br/>
 
 
-### 🤔 — Why should you be interested in the Cosmos Hub 
+### 🤔 — Why should you be interested in the Cosmos Hub  
 ___
 
 The Cosmos Hub is built using the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) and compiled to a binary called `gaiad` (Gaia Daemon). The Cosmos Hub and other fully sovereign Cosmos SDK blockchains interact with one another using a protocol called [IBC](https://github.com/cosmos/ibc) that enables Inter-Blockchain Communication. In order to understand what the Cosmos Hub is you can read this [introductory explanation](https://hub.cosmos.network/main/hub-overview/overview.html).
@@ -38,7 +38,7 @@ The Cosmos Hub is built using the [Cosmos SDK](https://github.com/cosmos/cosmos-
 ### ⚡ — Documentation & Introduction
 ___
 
-You can find an introduction to the Cosmos Hub and how to use the `gaiad` binary as a delegator, validator or node operator as well as how governance on the Cosmos Hub works in the [documentation](https://hub.cosmos.network/main/hub-overview/overview.html). 
+You can find an introduction to the Cosmos Hub and how to use the `gaiad` binary as a delegator, validator or node operator as well as how governance on the Cosmos Hub works in the [documentation](https://hub.cosmos.network/main/hub-overview/overview.html).
 
 
 <br/>
@@ -87,7 +87,7 @@ For an overview of upcoming changes to the Cosmos Hub take a look at the [Roadma
 ### 🗄️ — Archives & Genesis
 ___
 
-With each version of the Cosmos Hub, the chain is restarted from a new Genesis state. 
+With each version of the Cosmos Hub, the chain is restarted from a new Genesis state.
 Mainnet is currently running as `cosmoshub-4`. Archives of the state of `cosmoshub-1`, `cosmoshub-2`, and `cosmoshub-3` are available [here](./docs/resources/archives.md).
 
 If you are looking for historical genesis files and other data [`cosmos/mainnet`](http://github.com/cosmos/mainnet) is an excellent resource. Snapshots are also available at [cosmos.quicksync.io](https://cosmos.quicksync.io).
@@ -97,7 +97,7 @@ If you are looking for historical genesis files and other data [`cosmos/mainnet`
 <br/>
 
 
-### 🤝 — How to contribute 
+### 🤝 — How to contribute
 ___
 
 Check out [contributing.md](CONTRIBUTING.md) for our guidelines & policies for how we develop the Cosmos Hub. Thank you to all those who have contributed!
